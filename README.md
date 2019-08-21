@@ -1,3 +1,8 @@
+I followed this fun and easy to understand explanation of redux: https://www.youtube.com/watch?v=CVpUuw9XSjY&t=2122s
+
+As someone who did not understand redux before, this guide really helped me learn and if you're looking for a good resource you should watch the video and code along!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
